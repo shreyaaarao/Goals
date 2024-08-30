@@ -1,0 +1,46 @@
+.custom-tabs .ant-tabs-tab {
+    color: white !important;
+    font-size: 16px;
+}
+
+.custom-tabs .ant-tabs-ink-bar {
+    background-color: white !important;
+}
+
+
+.question-text {
+    flex: 1;
+    min-width: 0; 
+    white-space: pre-wrap; 
+}
+
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; 
+    align-items: center; 
+}
+
+.custom-tabs .ant-tabs-nav {
+    background-color: #014D4E;
+    height: 45px;
+    border-radius: 15px 15px 0 0; 
+}
+
+.custom-tabs .ant-tabs-tab {
+    color: white !important;
+    font-size: 18px; 
+    padding: 0 20px !important; 
+    margin: 0 !important;
+    border-bottom: none;
+}
+
+.custom-tabs .ant-tabs-tab-active {
+    color: white !important;
+}
+
+
+
+
+
